@@ -2,7 +2,7 @@
 	"description": "The MCCompiled Programming Language Mono Linux Filter",
 	"filters": [
 		{
-			"command": "sudo ls -l",
+			"command": "sudo mono ../.regolith/cache/filters/mc-compiled-linux/mc-compiled.exe --regolith",
 			"runWith": "shell"
 		}
 	],
